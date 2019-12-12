@@ -1,1 +1,1 @@
-
+ARIMA model identification and linear data manipulation
